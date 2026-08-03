@@ -22,14 +22,18 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" title="MATLAB" height="36" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX / TeX" title="LaTeX / TeX" height="36" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" title="SQL" height="36" />
   <img src="https://img.shields.io/badge/XML-00599C?style=flat-square&logo=xml&logoColor=white" alt="XML" title="XML" height="36" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" title="JSON" height="36" />
 </p>
 
-**Compilers, Frameworks & Game Engines**
+**Compilers, Build Tools, Frameworks & Game Engines**
 <p align="left">
+  <img src="https://img.shields.io/badge/GCC-00599C?style=flat-square&logo=gnu&logoColor=white" alt="GCC" title="GCC" height="36" />
   <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white" alt="LLVM" title="LLVM" height="36" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" title="CMake" height="36" />
+  <img src="https://img.shields.io/badge/Makefile-000000?style=flat-square&logo=gnu&logoColor=white" alt="Makefile" title="Makefile" height="36" />
   <img src="https://img.shields.io/badge/Flex_&_Bison-00599C?style=flat-square&logo=gnu&logoColor=white" alt="Flex & Bison/Yacc" title="Flex & Bison/Yacc" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
@@ -56,6 +60,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" title="Windows" height="36" />
 </p>
 
 ---
@@ -88,8 +93,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GHManu&show_icons=true&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GHManu's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHManu&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GHManu&show_icons=true&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GHManu's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GHManu&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
 </p>
 
 ---
@@ -98,18 +103,23 @@
 
 <p align="center">
   <a href="https://github.com/GHManu/Game2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GHManu&repo=Game2.0&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GHManu&repo=Game2.0&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/GHManu/compiler-assignments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GHManu&repo=compiler-assignments&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GHManu&repo=compiler-assignments&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GHManu/OnePiece-LogPoseSimulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GHManu&repo=OnePiece-LogPoseSimulator&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GHManu&repo=OnePiece-LogPoseSimulator&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/GHManu/AI-In-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GHManu&repo=AI-In-C&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GHManu&repo=AI-In-C&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/GHManu/MyCompiler">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GHManu&repo=MyCompiler&title_color=ef4444&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </p>
